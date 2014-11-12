@@ -14,4 +14,4 @@ Since this is my first extension, there might be some bugs, so please report any
 
 Installation Guide
 ==================
-Right-click the **Download ZIP** button on the right side, click **Copy Link Location** or whatever your browser calls it, open **File - Extension Manager...** in Brackets, click **Install from URL...** and paste the link you copied.
+Go to **File - Extension Manager**, and either search for "Window Title Tweak", or click **Install from URL** and paste in this link: https://s3.amazonaws.com/extend.brackets/chylex.window-title/chylex.window-title-1.0.0.zip
