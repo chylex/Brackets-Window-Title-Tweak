@@ -1,0 +1,2 @@
+Brackets-Window-Title-Tweak
+===========================
