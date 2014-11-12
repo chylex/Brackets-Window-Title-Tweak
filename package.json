@@ -1,0 +1,8 @@
+{
+    "name": "chylex.window-title",
+    "title": "Window Title Tweak",
+    "description": "Modifies window title to contain project name.",
+    "version": "1.0",
+    "homepage": "https://github.com/chylex/Brackets-Window-Title-Tweak",
+    "author": "chylex (http://chylex.com)"
+}
