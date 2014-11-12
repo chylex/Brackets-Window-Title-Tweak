@@ -14,5 +14,4 @@ Since this is my first extension, there might be some bugs, so please report any
 
 Installation Guide
 ==================
-(whenever it's actually here)
 Right-click the **Download ZIP** button on the right side, click **Copy Link Location** or whatever your browser calls it, open **File - Extension Manager...** in Brackets, click **Install from URL...** and paste the link you copied.
